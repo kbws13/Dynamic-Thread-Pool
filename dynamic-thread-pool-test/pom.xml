@@ -54,6 +54,12 @@
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
         </dependency>
+        <!-- 线程组件 -->
+        <dependency>
+            <groupId>xyz.kbws</groupId>
+            <artifactId>dynamic-thread-pool-spring-boot-starter</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
