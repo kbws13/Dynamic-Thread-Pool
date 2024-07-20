@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ <trees>
+     <tree path="/dynamic-thread-pool-spring-boot-starter/src/main/java/xyz/kbws/domain"
+           title="领域功能、动态线程池服务"/>
+     <tree path="/dynamic-thread-pool-spring-boot-starter/src/main/java/xyz/kbws/registry" title="注册中心"/>
+     <tree path="/dynamic-thread-pool-spring-boot-starter/src/main/java/xyz/kbws/tigger" title="触发器 上报、监听"/>
+     <tree path="/dynamic-thread-pool-spring-boot-starter/src/main/java/xyz/kbws/config" title="配置入口"/>
+ </trees>
