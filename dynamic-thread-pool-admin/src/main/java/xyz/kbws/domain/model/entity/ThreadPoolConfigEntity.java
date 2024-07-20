@@ -1,4 +1,4 @@
-package xyz.kbws.model.entity;
+package xyz.kbws.domain.model.entity;
 
 /**
  * @author kbws

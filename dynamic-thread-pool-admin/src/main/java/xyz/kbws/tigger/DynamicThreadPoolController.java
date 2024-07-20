@@ -6,7 +6,7 @@ import org.redisson.api.RList;
 import org.redisson.api.RTopic;
 import org.redisson.api.RedissonClient;
 import org.springframework.web.bind.annotation.*;
-import xyz.kbws.model.entity.ThreadPoolConfigEntity;
+import xyz.kbws.domain.model.entity.ThreadPoolConfigEntity;
 import xyz.kbws.types.Response;
 
 import javax.annotation.Resource;
